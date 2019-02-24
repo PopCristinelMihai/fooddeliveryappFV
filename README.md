@@ -1,7 +1,7 @@
 # fooddeliveryappFV
 ########################################################
 
-#Up-to-date version of the user side of fooddeliveryapp#
+#Up-to-date version of the user side of the Android food delivery app
 
 ########################################################
 
